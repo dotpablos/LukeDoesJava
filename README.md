@@ -20,26 +20,6 @@ Some of my code lives on Github, but I also work on plenty of things I can't sho
 
 ---
 
-### Languages and Tools
-
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-
-<br />
-<br />
-
----
-
 ### Featured Projects
 
 #### [Krumbz]([[https://lukepe.com/krumbz](https://www.lukepe.com/project/krumbz)](https://www.lukepe.com/project/krumbz))
@@ -57,9 +37,6 @@ Built with React Native, Google Gemini Vision API, TypeScript, and Python.
 - Event hosting and attendance tracking
 - Reputation system tied to Discord activity
 - ⚙TypeScript, React, Express, PostgreSQL, Discord OAuth
-
-#### [Mock Movie Ticketing System](https://github.com/LukeDoesJava)
-> Simulated theater network using Java Sockets, Threads, and OOP design patterns.
 
 ---
 
