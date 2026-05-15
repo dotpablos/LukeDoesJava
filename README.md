@@ -6,10 +6,6 @@ Computer Science Honours student at the University of Victoria and a full-stack 
 
 Some of my code lives on Github, but I also work on plenty of things I can't show here. Check out more of my professional work and design experiments at [lukepe.com](https://lukepe.com).
 
-<p align="left">
-  <a href="https://github.com/LukeDoesJava?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LukeDoesJava?color=blue&labelColor=2e3a59&style=for-the-badge&label=Follow&logo=person-add&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/luke-edwards-670181270/">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
